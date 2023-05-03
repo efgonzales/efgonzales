@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Elise! Welcome to my Github 😊</h1>
+<h1 align="center">Hi, I'm Elise! Welcome to my GitHub 😊</h1>
 
 <h3 align="center"> Master of Environmental Data Science Student, Bren School - UCSB</h3>
 
