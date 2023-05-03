@@ -17,7 +17,7 @@
 - MEDS (June 2023): Environmental Data Science (Bren School - UC Santa Barbara)
 - BS (2021): Biology - Ecology, Behavior, & Evolution (UC San Diego), Minor: Marine Science (Scripps Institution of Oceanography)
 
-📫 How to reach me: [efgonzales@bren.ucsb.edu]
+📫 How to reach me: efgonzales@bren.ucsb.edu
 <!--
 **samanthacsik/samanthacsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
