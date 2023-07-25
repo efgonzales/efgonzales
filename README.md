@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Elise! Welcome to my GitHub 😊</h1>
 
-<h3 align="center"> Master of Environmental Data Science Student, Bren School - UCSB</h3>
+<h3 align="center"> Environmental Data Scientist </h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 ### What am I up to? 
 
-🌱 I'm currently pursuing a Master of Environmental Data Science (MEDS) Degree at the Bren School of Environmental Science & Management at UCSB, with the goal of utilizing data science in the fields of marine conservation and environmental justice. My Master's Capstone project can be found on our [Github repo](https://github.com/iMPAct-capstone). 
+🌱 I recently earned a Master of Environmental Data Science (MEDS) Degree at the Bren School of Environmental Science & Management at UCSB, with the goal of utilizing data science in the fields of marine conservation and environmental justice. My Master's Capstone project can be found on our [Github repo](https://github.com/iMPAct-capstone). 
 
 ### Education
 
