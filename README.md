@@ -8,6 +8,8 @@
 
 📝 **LinkedIn:** [linkedin.com/in/elise-gonzales](https://www.linkedin.com/in/elise-gonzales/)
 
+⚡ **Interests:** Environmental Justice, Marine Ecology, and Biocultural Conservation
+
 ### What am I up to? 
 
 🌱 I currently work for Geosyntec Consultants, Inc. as a GIS and Environmental Data Analyst.
@@ -18,7 +20,6 @@
     - My capstone project can be found on our [Github repo](https://github.com/iMPAct-capstone).
 - BS (2021): Biology - Ecology, Behavior, & Evolution (UC San Diego), Minor: Marine Science (Scripps Institution of Oceanography)
 
-⚡ **Interests:** Environmental Justice, Marine Ecology, and Biocultural Conservation 
 
 📫 How to reach me: elisegonzales26@gmail.com
 <!--
