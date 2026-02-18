@@ -8,11 +8,11 @@
 
 📝 **LinkedIn:** [linkedin.com/in/elise-gonzales](https://www.linkedin.com/in/elise-gonzales/)
 
-⚡ **Interests:** Environmental Justice, Marine Ecology, and Biocultural Conservation
+🌊 **What matters to me:** Environmental justice, community-centered science, marine ecosystems, and using data as a tool for equity and conservation
 
 ### What am I up to? 
 
-🌱 I currently work as a GIS and Environmental Data Analyst and am continuing to work on my R coding skills!
+🌱 I currently work as a GIS and Environmental Data Analyst and am continuing to build my R and data science skills through research, collaboration, and applied projects.
 
 ### Education
 
