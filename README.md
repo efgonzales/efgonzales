@@ -10,14 +10,17 @@
 
 ### What am I up to? 
 
-🌱 I recently earned a Master of Environmental Data Science (MEDS) Degree at the Bren School of Environmental Science & Management at UCSB, with the goal of utilizing data science in the fields of marine conservation and environmental justice. My Master's Capstone project can be found on our [Github repo](https://github.com/iMPAct-capstone). 
+🌱 I currently work for Geosyntec Consultants, Inc. as a GIS and Environmental Data Analyst.
 
 ### Education
 
 - MEDS (June 2023): Environmental Data Science (Bren School - UC Santa Barbara)
+    - My Master's Capstone project can be found on our [Github repo](https://github.com/iMPAct-capstone).
 - BS (2021): Biology - Ecology, Behavior, & Evolution (UC San Diego), Minor: Marine Science (Scripps Institution of Oceanography)
 
-📫 How to reach me: efgonzales@bren.ucsb.edu
+⚡ **Interests:** Environmental Justice, Marine Ecology, and Biocultural Conservation 
+
+📫 How to reach me: elisegonzales26@gmail.com
 <!--
 **samanthacsik/samanthacsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
