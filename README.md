@@ -14,8 +14,8 @@
 
 ### Education
 
-- MEDS (June 2023): Environmental Data Science (Bren School - UC Santa Barbara)
-    - My Master's Capstone project can be found on our [Github repo](https://github.com/iMPAct-capstone).
+- MEDS (June 2023): Master of Environmental Data Science (Bren School - UC Santa Barbara)
+    - My capstone project can be found on our [Github repo](https://github.com/iMPAct-capstone).
 - BS (2021): Biology - Ecology, Behavior, & Evolution (UC San Diego), Minor: Marine Science (Scripps Institution of Oceanography)
 
 ⚡ **Interests:** Environmental Justice, Marine Ecology, and Biocultural Conservation 
