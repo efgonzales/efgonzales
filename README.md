@@ -12,7 +12,7 @@
 
 ### What am I up to? 
 
-🌱 I currently work for Geosyntec Consultants, Inc. as a GIS and Environmental Data Analyst.
+🌱 I currently work as a GIS and Environmental Data Analyst and am continuing to work on my R coding skills!
 
 ### Education
 
